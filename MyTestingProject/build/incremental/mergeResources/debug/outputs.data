@@ -1,0 +1,14 @@
+# incremental data. DO NOT EDIT.
+# format is <lastModified> <length> <SHA-1> <path>
+# Encoding is UTF-8
+1377088967000 350 1df685ac9e9d4889bb5bdd2b7534f7c7144b304d /Users/gkl/AndroidStudioProjects/MyTestingProjectProject/MyTestingProject/build/res/all/debug/values-v14/values.xml
+1377088967000 18087 8d35b7c0e81c9caf7ee547905d69c9542a08b87f /Users/gkl/AndroidStudioProjects/MyTestingProjectProject/MyTestingProject/build/res/all/debug/drawable-xxhdpi/ic_launcher.png
+1377125011000 375 c1e52e48899b7cb2e50520158ae447380ab876cb /Users/gkl/AndroidStudioProjects/MyTestingProjectProject/MyTestingProject/build/res/all/debug/layout/da_items.xml
+1377125011000 915 c54fc872133e40cba2cc84630d879cc54c4f689c /Users/gkl/AndroidStudioProjects/MyTestingProjectProject/MyTestingProject/build/res/all/debug/layout/activity_main.xml
+1377088967000 3156 be9d6d2174e9cbaabca59e8090160434dbd60002 /Users/gkl/AndroidStudioProjects/MyTestingProjectProject/MyTestingProject/build/res/all/debug/drawable-mdpi/ic_launcher.png
+1377088967000 336 a8d7fb912f51976b94ce3cc3bf08e15dc75b3237 /Users/gkl/AndroidStudioProjects/MyTestingProjectProject/MyTestingProject/build/res/all/debug/values-v11/values.xml
+1377088967000 9487 7e58a59b9c3cf7a7a1df12376c329591dd31f5e4 /Users/gkl/AndroidStudioProjects/MyTestingProjectProject/MyTestingProject/build/res/all/debug/drawable-xhdpi/ic_launcher.png
+1377088967000 6120 ced3785afb467e5670c9c7db0d3a345d15454ea5 /Users/gkl/AndroidStudioProjects/MyTestingProjectProject/MyTestingProject/build/res/all/debug/drawable-hdpi/ic_launcher.png
+1377088967000 267 f2ebeedf21d2fffa0c70b5c0a4c99fbe86fe0d14 /Users/gkl/AndroidStudioProjects/MyTestingProjectProject/MyTestingProject/build/res/all/debug/values-sw720dp-land/values.xml
+1377088967000 1182 a1704cbd5a890757e7125d9768b420f2dca5395d /Users/gkl/AndroidStudioProjects/MyTestingProjectProject/MyTestingProject/build/res/all/debug/values/values.xml
+1377088967000 364 d17358e8406d73fec20cf73b48aaac91045d53ae /Users/gkl/AndroidStudioProjects/MyTestingProjectProject/MyTestingProject/build/res/all/debug/menu/main.xml

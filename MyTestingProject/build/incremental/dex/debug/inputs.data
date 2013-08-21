@@ -1,0 +1,16 @@
+# incremental data. DO NOT EDIT.
+# format is <lastModified> <length> <SHA-1> <path>
+# Encoding is UTF-8
+1377092376000 433 ed86f5629099b18e32e6c35815c763e5c8b5a26b /Users/gkl/AndroidStudioProjects/MyTestingProjectProject/MyTestingProject/build/classes/debug/org/fourwaysstop/mytestingproject/R$menu.class
+1377088972000 452 ab6ea81062ce1ee1ee910e866334296a4888683e /Users/gkl/AndroidStudioProjects/MyTestingProjectProject/MyTestingProject/build/classes/debug/org/fourwaysstop/mytestingproject/R$drawable.class
+1377092324000 1762 7b558579b5dea8e77e466f06137aff427f963ca0 /Users/gkl/AndroidStudioProjects/MyTestingProjectProject/MyTestingProject/build/classes/debug/org/fourwaysstop/mytestingproject/MainActivity$1.class
+1377092376000 480 0fcf8bbbd7719a9841430fae20c34061d3d3f100 /Users/gkl/AndroidStudioProjects/MyTestingProjectProject/MyTestingProject/build/classes/debug/org/fourwaysstop/mytestingproject/R$layout.class
+1377092376000 476 b6e00b2da72381385ae49448f9913d51aa74f64a /Users/gkl/AndroidStudioProjects/MyTestingProjectProject/MyTestingProject/build/classes/debug/org/fourwaysstop/mytestingproject/R$style.class
+1377092376000 827 3986d8c534e63463fd3acf58850a197638677867 /Users/gkl/AndroidStudioProjects/MyTestingProjectProject/MyTestingProject/build/classes/debug/org/fourwaysstop/mytestingproject/R.class
+1377092376000 474 a3bb8a1198813ab6199ae317d58d654f1257709c /Users/gkl/AndroidStudioProjects/MyTestingProjectProject/MyTestingProject/build/classes/debug/org/fourwaysstop/mytestingproject/R$id.class
+1377092376000 1741 0c4e2a686b2109f7a882464c438beeaf8f369e07 /Users/gkl/AndroidStudioProjects/MyTestingProjectProject/MyTestingProject/build/classes/debug/org/fourwaysstop/mytestingproject/MainActivity.class
+1377088972000 375 35e64417920e164d5ad6cee66082e4b67cfdc798 /Users/gkl/AndroidStudioProjects/MyTestingProjectProject/MyTestingProject/build/classes/debug/org/fourwaysstop/mytestingproject/BuildConfig.class
+1377088972000 506 f7e6adecf8649e33e616bc17e0cdd38838b6de6d /Users/gkl/AndroidStudioProjects/MyTestingProjectProject/MyTestingProject/build/classes/debug/org/fourwaysstop/mytestingproject/R$dimen.class
+1377092376000 517 aa87854248f932c44276ae1f28fce6ba3181ce78 /Users/gkl/AndroidStudioProjects/MyTestingProjectProject/MyTestingProject/build/classes/debug/org/fourwaysstop/mytestingproject/R$string.class
+1377088972000 385 707f7c974910d76f22ca111ef8fd4c5a64cceced /Users/gkl/AndroidStudioProjects/MyTestingProjectProject/MyTestingProject/build/classes/debug/org/fourwaysstop/mytestingproject/R$attr.class
+1377009974000 563264 44ec51e9d395a47aab135e5e1b556c0007442156 /Applications/Android Studio.app/sdk/extras/android/m2repository/com/android/support/support-v4/18.0.0/support-v4-18.0.0.jar
